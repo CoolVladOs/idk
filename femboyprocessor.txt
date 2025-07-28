@@ -1,4 +1,4 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\0]
-"ProcessorNameString"="хуй"
+"ProcessorNameString"="amd ryzen 5 5500 repo edition = femboy memory bonus 2008"
